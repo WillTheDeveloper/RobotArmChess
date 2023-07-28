@@ -26,3 +26,7 @@ The idea behind this, is to bring the robot arm and 3d printing capabilities tog
 ## 3D print resources
 
 - Chess piece https://www.thingiverse.com/thing:6054837
+
+## Arduino proposed purchases
+
+- Use this camera to detect labels and items - https://store.arduino.cc/collections/sensors/products/gravity-huskylens-ai-machine-vision-sensor
